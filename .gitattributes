@@ -1,0 +1,6 @@
+models/keypoints_model.pth filter=lfs diff=lfs merge=lfs -text
+models/best.pt filter=lfs diff=lfs merge=lfs -text
+models/yolov5xu_best.pt filter=lfs diff=lfs merge=lfs -text
+models/yolov5xu_last.pt filter=lfs diff=lfs merge=lfs -text
+yolov5xu.pt filter=lfs diff=lfs merge=lfs -text
+models/last.pt filter=lfs diff=lfs merge=lfs -text
